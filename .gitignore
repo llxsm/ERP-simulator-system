@@ -1,0 +1,20 @@
+# ---- 操作系统自动生成 ----
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+$RECYCLE.BIN/
+
+# ---- 编辑器 / IDE ----
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ---- 临时 / 备份 / 日志 ----
+*.tmp
+*.temp
+*.bak
+*.log
+~$*

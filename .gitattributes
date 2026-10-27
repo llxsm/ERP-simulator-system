@@ -1,0 +1,4 @@
+# 统一换行：仓库里一律 LF，避免 Windows / macOS 之间来回改行尾
+* text=auto eol=lf
+*.html text eol=lf
+*.md   text eol=lf
